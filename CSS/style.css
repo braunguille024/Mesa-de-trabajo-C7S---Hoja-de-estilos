@@ -1,0 +1,33 @@
+H1 {
+  background-color: #c4c4c4;
+  color: #0c5d7c;
+
+  font-size: 35;
+  line-height: 85%;
+  letter-spacing: 12px;
+}
+H2 {
+  background-color: #c4c4c4;
+  color: #0c5d7c;
+}
+span {
+  font-weight: bold;
+}
+footer {
+  color: white;
+  text-align: center;
+  background-color: #005677;
+  height: 30px;
+}
+header {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  background-color: #e5e5e5;
+}
+li.li_secundarios {
+  list-style-type: none;
+  margin-left: 40px;
+}
+img.Imagenes_Footer {
+  width: 17px;
+}
